@@ -2,7 +2,7 @@
  * @param:
  */
 function analyzeAudio(buffer, callback) {
-    var data=buffer.getChannelData(0);
+    var data = buffer.getChannelData(0);
 
     var max_value = null;
     var min_value = null;
