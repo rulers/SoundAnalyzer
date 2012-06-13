@@ -1,6 +1,6 @@
 /*
 　* Folk　From : https://github.com/agektmr/Audio-Visualizer
- * Original Souce : https://github.com/agektmr/Audio-Visualizer/blob/master/synthesizer.js
+ * Original Source : https://github.com/agektmr/Audio-Visualizer/blob/master/synthesizer.js
  * Sampling Rate: 44,100
  * Frequency:
  * Samples
